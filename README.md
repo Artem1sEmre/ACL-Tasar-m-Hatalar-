@@ -6,8 +6,8 @@ Bu depo, Erişim Kontrol Listeleri (Access Control List - ACL) yapılandırmalar
 
 Bu repoda araştırmaya ait aşağıdaki materyaller bulunmaktadır:
 
-* **📄 Makale (`Makale_Dosya_Adiniz.pdf`):** Araştırmanın detaylı analizini, metodolojisini ve sonuçlarını içeren tam metin.
-* **🖼️ Poster (`Poster_Dosya_Adiniz.pdf`):** Çalışmanın temel bulgularını ve özetini görsel olarak sunan akademik bildiri posteri.
+* **📄 Makale (`ACL TASARIM HATALARI.pdf`):** Araştırmanın detaylı analizini, metodolojisini ve sonuçlarını içeren tam metin.
+* **🖼️ Poster (`Poster_Dosyası`):** Çalışmanın temel bulgularını ve özetini görsel olarak sunan akademik bildiri posteri.
 
 ## 🎯 Projenin Amacı
 
